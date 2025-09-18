@@ -13,6 +13,7 @@ export default defineConfig({
     logo: '/logo.png',
     nav: [
       { text: '首页', link: '/' },
+      { text: '菜谱日历', link: '/calendar' },
       ...nav,
       { text: 'GitHub', link: 'https://github.com/Gar-b-age/CookLikeHOC' },
     ],

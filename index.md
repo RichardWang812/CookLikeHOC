@@ -6,6 +6,9 @@ hero:
   tagline: 文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理
   actions:
     - theme: brand
+      text: 菜谱日历
+      link: /calendar
+    - theme: alt
       text: 开始浏览
       link: /炒菜/菠萝咕咾肉
     - theme: alt
